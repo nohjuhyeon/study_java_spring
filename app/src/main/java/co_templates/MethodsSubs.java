@@ -1,12 +1,12 @@
 package co_templates;
 public class MethodsSubs {
-    public void MethodsSubs(){
+    public void methodssubs(){
         System.out.println("MethodsSubs - MethodsSubs()");
     }
     // 접근자 리턴 메소드이름(파라메터){
     //      return 0;
     // }
-    public void methoodsSubs(){
+    public void methodsSubs(){
         System.out.println("methodssubs - methodsSubs()");
     }
     // with params
